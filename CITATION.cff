@@ -1,0 +1,11 @@
+﻿cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the accompanying preprint."
+title: "Hardware-Enforced OCC 12 CFR Part 15 Compliance: Sub-100 ns Stablecoin Reserve & Redemption Circuit Breakers Ahead of the January 2027 GENIUS Act Mandate"
+authors:
+  - family-names: "Iko"
+    given-names: "Joseph William"
+    affiliation: "Oikonomia Architektur"
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+repository-code: "https://github.com/joeiko3424-svg/oikonomia-genius-act-occ-fpga"

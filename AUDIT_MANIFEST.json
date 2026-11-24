@@ -1,0 +1,9 @@
+{
+  "kernel": "Linux version 7.0.0-1017-aws (buildd@lcy02-amd64-022) (x86_64-linux-gnu-gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0, GNU ld (GNU Binutils for Ubuntu) 2.46) #18-Ubuntu SMP PREEMPT Tue Oct 27 20:48:19 UTC 2026",
+  "files": {
+    "exp4_genius_act_occ": "ef1cff2ca4900476f295daa78f505b3230f648e162299285a63cb2ccaf822533",
+    "exp4_genius_act_occ.c": "a46e00d84c8a02d4227ddfd0faa0389a4b2fc82b23a99c5c115ae5e20afc3fcd",
+    "exp4_summary.json": "512dc12966182231e13ea490af6056fd540c43b258b4892d807dc8d25c04e62a",
+    "hardware_telemetry_exp4.log": "78ec113eb6c82d59ae2b43ab29698f006f7b16ec18eb8f94bf94392e8b0e13c2"
+  }
+}
