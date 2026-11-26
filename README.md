@@ -17,7 +17,7 @@ Open-source C hardware audit harness (`exp4_genius_act_occ.c`), raw Xilinx Ultra
 | **25,000-Step Forensic Unwinding ($T^{-1}$)** | IEEE 754 floating-point drift | **0 bits LSB Drift** in **256 Bytes** | Bit-exact regulatory audit reconstruction |
 
 ## Repository Artifacts
-- `Oikonomia_GENIUS_Act_OCC_Part15_Preprint.pdf` — Peer-review-hardened regulatory & hardware preprint
+- `Oikonomia_GENIUS_Act_OCC_Part15_Preprint.pdf` — reproducible, SHA-256 verified regulatory & hardware preprint
 - `exp4_genius_act_occ.c` — Compiled C (`gcc -O3 -march=native`) five-vector fault-injection & BAR0 MMIO harness
 - `exp4_summary.json` — Machine-readable telemetry output from `0000:34:00.0`
 - `hardware_telemetry_exp4.log` — Raw `fpga-describe-local-image -S 0 -R -M` power and PCIe/AXI register dump
